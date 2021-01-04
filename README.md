@@ -7,6 +7,7 @@ A collection of software I like or use on a daily basis.
 	* [i3-gaps](https://github.com/Airblader/i3)
 	* [polybar](https://github.com/polybar/polybar)
 	* [ly](https://github.com/nullgemm/ly)
+	* [rofi](https://github.com/davatorium/rofi)
 
 * ### File Manager
 	* [ranger](https://github.com/ranger/ranger)
