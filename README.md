@@ -27,6 +27,9 @@ A collection of software I like or use on a daily basis.
 	* [vim-airline](https://github.com/vim-airline/vim-airline)
 	* [code OSS](https://github.com/microsoft/vscode)
 
+* ### Planning
+	* [gcalcli (command line google calendar)](https://github.com/insanum/gcalcli)
+
 * ### Media
 	* [vlc media player](https://github.com/videolan/vlc)
 	* [GIMP](https://github.com/GNOME/gimp)
