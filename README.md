@@ -8,6 +8,8 @@ A collection of software I like or use on a daily basis.
 	* [polybar](https://github.com/polybar/polybar)
 	* [ly](https://github.com/nullgemm/ly)
 	* [rofi](https://github.com/davatorium/rofi)
+	* [alacritty](https://github.com/alacritty/alacritty)
+	* [picom](https://github.com/yshui/picom)
 
 * ### File Manager
 	* [ranger](https://github.com/ranger/ranger)
@@ -34,6 +36,11 @@ A collection of software I like or use on a daily basis.
 	* [vlc media player](https://github.com/videolan/vlc)
 	* [GIMP](https://github.com/GNOME/gimp)
 	* [Shotcut](https://github.com/mltframework/shotcut)
+
+* ### Browsers
+	* [Surf](https://surf.suckless.org/)
+		* [tabbed (adds tab support to surf)](https://tools.suckless.org/tabbed/)
+	* [WaterFox](https://github.com/MrAlex94/Waterfox)
 
 * ### Fun / Misc
 	* [pipes](https://github.com/pipeseroni/pipes.sh)
