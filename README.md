@@ -45,3 +45,4 @@ A collection of software I like or use on a daily basis.
 * ### Fun / Misc
 	* [pipes](https://github.com/pipeseroni/pipes.sh)
 	* [cmatrix](https://github.com/abishekvashok/cmatrix)
+	* [redshift](https://github.com/jonls/redshift)
