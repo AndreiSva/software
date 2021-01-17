@@ -46,3 +46,4 @@ A collection of software I like or use on a daily basis.
 	* [pipes](https://github.com/pipeseroni/pipes.sh)
 	* [cmatrix](https://github.com/abishekvashok/cmatrix)
 	* [redshift](https://github.com/jonls/redshift)
+	* [cava](https://github.com/karlstav/cava)
