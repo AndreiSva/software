@@ -23,7 +23,7 @@ A collection of software I like or use on a daily basis.
 	* [pfetch](https://github.com/dylanaraps/pfetch)
 
 * ### Text editing
-	* [vim](https://github.com/vim/vim)
+	* [neovim](https://github.com/neovim/neovim)
 	* [vim-plug](https://github.com/junegunn/vim-plug)
 	* [coc](https://github.com/neoclide/coc.nvim)
 	* [vim-airline](https://github.com/vim-airline/vim-airline)
