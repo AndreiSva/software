@@ -3,6 +3,7 @@ A collection of software I like or use on a daily basis.
 
 * ### System
 	* [zsh](https://github.com/zsh-users/zsh)
+	* [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
 	* [linux](https://github.com/torvalds/linux)
 	* [i3-gaps](https://github.com/Airblader/i3)
 	* [polybar](https://github.com/polybar/polybar)
