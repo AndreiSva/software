@@ -10,6 +10,7 @@ A collection of software I like or use on a daily basis.
 	* [ly](https://github.com/nullgemm/ly)
 	* [rofi](https://github.com/davatorium/rofi)
 	* [alacritty](https://github.com/alacritty/alacritty)
+	* [st](https://st.suckless.org/)
 	* [picom](https://github.com/yshui/picom)
 
 * ### File Manager
