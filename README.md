@@ -2,6 +2,7 @@
 A collection of software I like or use on a daily basis.
 
 * ### System
+	* [kiss linux](https;//github.com/kisslinux)
 	* [zsh](https://github.com/zsh-users/zsh)
 	* [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
 	* [linux](https://github.com/torvalds/linux)
@@ -43,6 +44,7 @@ A collection of software I like or use on a daily basis.
 	* [Surf](https://surf.suckless.org/)
 		* [tabbed (adds tab support to surf)](https://tools.suckless.org/tabbed/)
 	* [WaterFox](https://github.com/MrAlex94/Waterfox)
+	* [Qutebrowser]
 
 * ### Fun / Misc
 	* [pipes](https://github.com/pipeseroni/pipes.sh)
